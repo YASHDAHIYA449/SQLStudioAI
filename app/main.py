@@ -16,8 +16,8 @@ st.markdown("Automated profiling and repair for ingested datasets")
 conn = init_db()
 
 # Load data paths
-RAW_PATH = "../data/raw/customers_raw.csv"
-REF_PATH = "../data/reference/customers_reference.csv"
+RAW_PATH = "data/customers_raw.csv"
+REF_PATH = "data/customers_reference.csv"
 
 try:
     raw_df, ref_df = load_data(conn, RAW_PATH, REF_PATH)
