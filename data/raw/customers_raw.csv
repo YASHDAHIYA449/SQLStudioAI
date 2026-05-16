@@ -1,0 +1,601 @@
+customer_id,email,full_name,phone,signup_date,country,city,segment,is_active,notes
+C200001,priya.bose22@hotmail.com,Priya Bose,-9725725449,29-02-2024,IN,Ahmedabad,retail,TRUE,imported from legacy CRM
+C200002,kiara.gupta47@rediffmail.com,Kiara Gupta,-8594786843,03-10-2024,IN,Hyderabad,premium,TRUE,imported from legacy CRM
+C200003,aarav.sharma99@yahoo.com,Aarav Sharma,-9143763649,09-06-2024,IN,Chandigarh,retail,TRUE,VIP
+C200004,maya.chopra7@rediffmail.com,Maya Chopra,-9426176983,17-08-2024,IN,Ahmedabad,retail,TRUE,
+C200005,vivaan.khan13@hotmail.com,Vivaan Khan,-7936357003,10-09-2025,IN,Mumbai,retail,TRUE,
+C200006,reyansh.verma46@rediffmail.com,Reyansh Verma,-7227480858,29-03-2025,IN,Kolkata,retail,TRUE,VIP
+C200007,navya.nair47@rediffmail.com,Navya Nair,-7397869862,11-05-2024,IN,Delhi,retail,TRUE,
+C200008,pari.kapoor46@outlook.com,Pari Kapoor,-8724818224,01-08-2025,IN,Chennai,retail,no,
+C200009,reyansh.iyer65@yahoo.com,Reyansh Iyer,-9140758844,03-03-2024,IN,Hyderabad,retail,TRUE,VIP
+C200010,vihaan.iyer70@outlook.com,Vihaan Iyer,-7873190549,23-11-2025,IN,CHENNAI,retail,TRUE,
+C200011,saanvi.malhotra27@outlook.com,Saanvi Malhotra,-8606880916,16-05-2024,US,Delhi,premium,TRUE,imported from legacy CRM
+C200012,nisha.kapoor99@yahoo.com,Nisha Kapoor,-8534883531,21-09-2024,IN,Bengaluru,retail,TRUE,
+C200013,kiara.joshi38@rediffmail.com,Kiara Joshi,-9945292707,13-03-2025,IN,Lucknow,retail,TRUE,verified
+C200014,aditya.bansal11@hotmail.com,Aditya Bansal,-9681608318,,IN,Surat,retail,TRUE,
+C200015,rahul.kapoor11@outlook.com,Rahul Kapoor,-8842901177,11-12-2025,IN,Bengaluru,retail,TRUE,
+C200016,ananya.malhotra16@outlook.com,Ananya Malhotra,-9551696836,01-09-2025,UK,Chandigarh,premium,TRUE,imported from legacy CRM
+C200017,vivek.gupta59@outlook.com,Vivek Gupta,-7509865146,12-06-2025,IN,pune,premium,FALSE,
+C200018,karan.chopra75@hotmail.com,Karan Chopra,-7856691101,12-01-2025,US,Jaipur,retail,TRUE,
+C200019,sai.mehta12@hotmail.com,Sai Mehta,-8931123218,14-08-2024,IN,Jaipur,premium ,TRUE,
+C200020,aarav.nair9@rediffmail.com,Aarav Nair,-9412926252,12-07-2025,IN,Delhi,retail,FALSE,duplicate of acct C100023?
+C200021,ananya.patel4@yahoo.com,Ananya Patel  ,-7863955811,26-10-2025,IN,Indore,retail,TRUE,
+C200022,pari.joshi98@hotmail.com,Pari Joshi,-8458454132,06-12-2024,IN,Ahmedabad,retail,TRUE,
+C200023,aditya.kapoor6@hotmail.com,Aditya Kapoor,-9457994872,04-01-2024,US,Delhi,premium,TRUE,
+C200024,rohan.sharma68@outlook.com,Rohan Sharma,-9110941132,22-04-2024,IN,Kolkata,premium,TRUE,VIP
+C200025,sai.chopra88@yahoo.com,Sai Chopra,-8309508147,11-03-2025,IN,Hyderabad,enterprise,FALSE,verified
+C200026,shaurya.kumar39@yahoo.com,Shaurya Kumar,+91 71638 89719,14-04-2025,IN,Ahmedabad,premium,FALSE,
+C200027,vihaan.rao24@outlook.com,Vihaan Rao,-7702346753,06-09-2025,IN,Lucknow,retail,TRUE,
+C200028,neha.reddy52@yahoo.com,Neha Reddy,-8741674774,17-07-2025,IN,Hyderabad,retail,TRUE,VIP
+C200029,ananya.bansal99@gmail.com,Ananya Bansal,-8983331649,13-02-2025,IN,Bengaluru,premium,TRUE,imported from legacy CRM
+C200030,pari.khan36@gmail.com,Pari Khan,-9343111314,28-04-2025,UK,Ahmedabad,premium,TRUE,imported from legacy CRM
+C200031,kiara.mehta54@yahoo.com,Kiara Mehta,-8248371934,12-06-2025,IN,indore,enterprise,TRUE,
+C200032,anika.verma20@rediffmail.com,Anika Verma,-7101314135,01-06-2024,US,Delhi,retail,TRUE,
+C200033,pari.kumar62@hotmail.com,Pari Kumar,-7866715038,10-07-2025,US,Hyderabad,retail,TRUE,
+C200034,reyansh.patel57@yahoo.com,Reyansh Patel,7656533218,22-06-2025,IN,Hyderabad,retail,TRUE,duplicate of acct C100023?
+C200035,anika.gupta60@gmail.com,Anika Gupta,-8176820379,23-05-2024,IN,Kolkata,premium,TRUE,
+C200036,vivek.kumar84@hotmail.com,Vivek Kumar,-7984495355,29-12-2025,IN,Chennai,retail,FALSE,
+C200037,anaya.sharma93@yahoo.com,Anaya Sharma,-9255404408,04-10-2025,IN,Jaipur,premium,TRUE,
+C200038,anaya.chopra72,Anaya Chopra,-8293309566,20-01-2025,IN,Pune,retail,TRUE,
+C200039,saanvi.joshi58@hotmail.com,Saanvi Joshi  ,-7204247572,28-09-2025,IN,Chandigarh,retail,FALSE,
+C200040,reyansh.chopra5@hotmail.com,Reyansh Chopra,-192587,12-04-2024,IN,Bengaluru,enterprise,TRUE,verified
+C200041,anaya.patel44@hotmail.com,Anaya  Patel,-9242778597,29-07-2024,IN,Indore,retail,TRUE,
+C200042,aanya.kapoor2@hotmail.com,Aanya Kapoor,-9816433044,07-09-2024,IN,Lucknow,retail,0,
+C200043,reyansh.joshi40@hotmail.com,Reyansh Joshi,-7670495864,28-07-2024,IN,Surat,retail,FALSE,
+C200044,tara.mehta33@rediffmail.com,Tara Mehta,-8661345186,27-12-2024,IN,Jaipur,retail,TRUE,VIP
+C200045,rahul.khan92@yahoo.com,Rahul Khan,-9127757487,06-11-2025,IN,Delhi,retail,TRUE,
+C200046,aanya.joshi43@gmail.com,Aanya Joshi,-8372585434,07-05-2024,IN,Indore,retail,Y,VIP
+C200047,anika.bansal72@gmail.com,Anika Bansal,-9370276630,08-Dec-24,United States,Delhi,enterprise,FALSE,
+C200048,karan.malhotra31@rediffmail.com,Karan Malhotra,-8950273842,09-07-2024,IN,Surat,retail,FALSE,verified
+C200049,sai.singh40@hotmail.com,Sai  Singh,-9706771337,17-01-2024,IN,Kolkata,retail,FALSE,
+C200050,priya.kumar73@hotmail.com,Priya Kumar,-7444644928,14-05-2024,IN,Lucknow,enterprise,FALSE,
+C200051,vivek.verma93@yahoo.com,Vivek Verma,-8609729152,14-04-2024,IN,Kolkata,premium,TRUE,duplicate of acct C100023?
+C200052,navya.nair97@outlook.com,Navya Nair,-8574978868,07-12-2025,IN,Kolkata,retail,FALSE,
+C200053,pari.joshi68@rediffmail.com,Pari Joshi,-8530125297,24-11-2024,UK,Hyderabad,premium,TRUE,duplicate of acct C100023?
+C200054,maya.chopra77@outlook.com,Maya Chopra,-8707173099,07-09-2024,IN,Ahmedabad,retail,TRUE,
+C200055,vivaan.bose89@gmail.com,Vivaan Bose,-9344671362,09-11-2024,IN,Chennai,premium,TRUE,verified
+C200056,maya.malhotra70@hotmail.com,Maya Malhotra,-9924272006,15-08-2024,IN,Kolkata,retail,TRUE,VIP
+C200057,vihaan.khan17@gmail.com,Vihaan Khan,-9689575108,01-01-2024,IN,Indore,,TRUE,verified
+C200058,aditya.shah58@rediffmail.com,Aditya Shah,-8244473723,09-12-2025,IN,Mumbai,retail,TRUE,
+C200059,ananya.gupta42@hotmail.com,Ananya Gupta,-7895914167,28-04-2025,US,Chennai,retail,TRUE,
+C200060,neha.verma26@outlook.com,Neha Verma,-8583116724,25-06-2024,IN,INDORE,enterprise,TRUE,
+C200061,rohan.iyer25@gmail.com,Rohan Iyer,-9208420856,16-11-2024,AE,Hyderabad,premium,TRUE,VIP
+C200062,arjun.joshi90@hotmail.com,Arjun Joshi  ,-8180277530,16-08-2024,US,Delhi,premium,TRUE,
+C200063,sai.iyer65@outlook.com,Sai Iyer,-8481942664,08-11-2025,IN,,retail,TRUE,verified
+C200064,shaurya.mehta86@yahoo.com,Shaurya Mehta,-8235770924,14-11-2025,IN,Delhi,retail,TRUE,VIP
+C200065,pari.verma1@rediffmail.com,Pari Verma,-9391663261,13-09-2024,IN,Lucknow,primium,TRUE,duplicate of acct C100023?
+C200066,anaya.rao32@yahoo.com,Anaya Rao,-8851674638,30-01-2024,IN,BENGALURU,enterprise,FALSE,verified
+C200067,aadhya.agarwal50@gmail.com,Aadhya Agarwal,-8161288542,06-03-2024,IN,Chandigarh,premium,TRUE,
+C200068,saanvi.verma67@outlook.com,Saanvi Verma,-9946986372,11-10-2025,IN,Jaipur,premium,TRUE,
+C200069,kiara.mehta15@rediffmail.com,Kiara Mehta  ,,27-03-2025,IN,Hyderabad,premium,TRUE,
+C200070,krishna.reddy63@rediffmail.com,Krishna Reddy,-7973708178,09-09-2025,IN,Mumbai,retail,TRUE,
+C200071,vivaan.agarwal58@yahoo.com,Vivaan Agarwal,-8255737758,19-01-2024,IN,Surat,,TRUE,
+C200072,ishaan.sharma10@gmail.com,Ishaan Sharma,-7682770855,10-07-2025,in,Indore,retail,FALSE,
+C200073,shaurya.nair6@outlook.com,Shaurya Nair,-9856650890,28-09-2024,IN,Ahmedabad,retail,TRUE,
+C200074,sai.chopra33@yahoo.com,Sai Chopra,-7608824125,05-11-2025,US,Surat,retail,TRUE,verified
+C200075,aadhya.malhotra90@yahoo.com,Aadhya Malhotra,-9143234564,16-05-2025,IN,Lucknow,enterprise,FALSE,
+C200076,aadhya.khan96@gmail.com,Aadhya Khan,+91 73465 29765,22-06-2025,IN,Kolkata,retail,TRUE,verified
+C200077,rahul.patel5@rediffmail.com,Rahul Patel,-7402365417,01-05-2024,IN,Chennai,retail,FALSE,
+C200078,krishna.malhotra40@outlook.com,Krishna Malhotra,-9323141510,13-06-2024,IN,Chandigarh,Retail,TRUE,imported from legacy CRM
+C200079,navya.agarwal23@hotmail.com,navya agarwal,-8963323591,25-01-2025,IN,Mumbai,retail,0,verified
+C200080,sai.bansal21@hotmail.com,Sai Bansal,-7509324780,31-08-2025,IN,Hyderabad,retail,TRUE,imported from legacy CRM
+C200081,rohan.mehta63@yahoo.com,Rohan Mehta,-9492539449,15-03-2024,IN,Hyderabad,retail,TRUE,imported from legacy CRM
+C200082,aarav.khan24@outlook.com,Aarav Khan,-9502694842,27-10-2025,IN,Hyderabad,retail,FALSE,
+C200083,maya.malhotra18@yahoo.com,Maya Malhotra,-9959224945,21-01-2024,SG,Kolkata,retail,TRUE,verified
+C200084,PRIYA.JOSHI33@REDIFFMAIL.COM,Priya Joshi,-9156416828,07-02-2025,IN,Ahmedabad,retail,FALSE,
+C200085,kiara.singh5@@yahoo.com,Kiara Singh,-8520544561,05-05-2025,IN,Bengaluru,retail,TRUE,imported from legacy CRM
+C200086,ananya.shah86@hotmail.com,Ananya Shah,-7309975049,14-10-2024,IN,Ahmedabad,retail,TRUE,VIP
+C200087,ravi.malhotra29@gmail.com,Ravi Malhotra,-8479461622,17-09-2025,IN,Mumbai,premium,TRUE,imported from legacy CRM
+C200088,saanvi.agarwal2@outlook.com,Saanvi Agarwal  ,-9786170065,09-08-2024,IN,Pune,premium,TRUE,duplicate of acct C100023?
+C200089,ravi.malhotra31.outlook.com,Ravi Malhotra,-7918548389,02-05-2024,IN,Mumbai,retail,TRUE,imported from legacy CRM
+C200090,shaurya.bose91@outlook.com,Shaurya Bose,-7262521908,25-07-2024,IN,Bengaluru,retail,TRUE,
+C200091,pari.patel96@outlook.com,Pari Patel,-8923258027,,IN,Indore,premium,TRUE,
+C200092,rahul.sharma51@gmail.com,Rahul Sharma,-8164523913,05-10-2024,IN,Ahmedabad,premium,TRUE,duplicate of acct C100023?
+C200093,maya.joshi33@gmail.com,Maya Joshi,-7136463855,27-11-2024,UK,Lucknow,retail,TRUE,
+C200094,neha.mehta83@hotmail.com,Neha Mehta,-8730457933,06-01-2025,IN,Indore,enterprise,TRUE,
+C200095,rohan.verma80@rediffmail.com,Rohan Verma,-8727535665,06-03-2024,in,Ahmedabad,premium,TRUE,
+C200096,rahul.chopra5@yahoo.com,Rahul Chopra,-9619386021,12-11-2024,IN,Ahmedabad,enterprise,FALSE,
+C200097,reyansh.reddy30@outlook.com,Reyansh Reddy,-9325345853,17-06-2025,IN,Jaipur,enterprise,FALSE,
+C200098,anika.bose84@rediffmail.com,Anika Bose,-7739963378,28-07-2025,United States,Indore,enterprise,TRUE,
+C200099,diya.kumar3@outlook.com,Diya Kumar,-9312829074,09-02-2025,IN,Chennai,premium,FALSE,verified
+C200100,kiara.bose73@outlook.com,Kiara Bose,-8524399495,01-10-2025,IN,Jaipur,retail,TRUE,
+C200101,diya.joshi91@yahoo.com,Diya Joshi,(+91) 9855232120,05-03-2024,SG,Delhi,premium,TRUE,
+C200102,ravi.shah66@hotmail.com,Ravi Shah,-7266751681,26-02-2025,US,Mumbai,retail,TRUE,duplicate of acct C100023?
+C200103,maya.chopra33@outlook.com,Maya Chopra,-8832815917,30-11-2024,IN,Surat,retail,TRUE,
+C200104,arjun.agarwal54@yahoo.com,Arjun Agarwal,-9858971277,02-10-2024,US,Bengaluru,retail,TRUE,verified
+C200105,shaurya.iyer84@yahoo.com,Shaurya Iyer,-7583713878,11-12-2025,AE,Bengaluru,retail,TRUE,
+C200106,ishaan.chopra50@yahoo.com,Ishaan Chopra,-7261847821,01-05-2024,US,Chennai,retail,TRUE,
+C200107,vivek.kumar52@outlook.com,Vivek Kumar,-7952668828,09-05-2025,IN,Delhi,retail,TRUE,
+C200108,nisha.gupta29@hotmail.com,nisha gupta,-9732527923,25-05-2024,SG,Kolkata,premium,TRUE,VIP
+C200109,shaurya.singh57@yahoo.com,Shaurya Singh,(+91) 7669363583,14-05-2025,IN,Bengaluru,retail,FALSE,
+C200110,navya.agarwal19@outlook.com,Navya Agarwal,-9509387233,25-11-2024,IN,Ahmedabad,retail,TRUE,
+C200111,anika.verma20@gmail.com,Anika Verma,-7878424274,17-11-2025,IN,Bengaluru,retail,FALSE,
+C200112,vivek.rao53@hotmail.com,Vivek Rao,-7524468379,27-07-2025,IN,Mumbai,retail,TRUE,verified
+C200113,nisha.kapoor33@outlook.com,Nisha Kapoor,-7397361613,29-03-2025,IN, Indore,retail,TRUE,
+C200114,sai.bansal16@gmail.com,Sai Bansal,-8467125065,23-07-2025,U.K.,Jaipur,retail,TRUE,verified
+C200115,aditya.malhotra2@rediffmail.com,Aditya Malhotra,-8929356865,21-05-2025,IN,Surat,retail,TRUE,imported from legacy CRM
+C200116,vivek.kumar62@hotmail.com,Vivek Kumar,-9518362568,30-09-2025,IN,Lucknow,retail,TRUE,VIP
+C200117,maya.malhotra65@outlook.com,Maya Malhotra,91-8741769020,05-04-2025,IN,Hyderabad,retail,TRUE,duplicate of acct C100023?
+C200118,kiara.kumar34@outlook.com,,-7859288740,04-08-2024,IN,Bengaluru,retail,TRUE,imported from legacy CRM
+C200119,sai.malhotra14@yahoo.com  ,Sai Malhotra,-7481467264,05-07-2024,IN,mumbai,retail,FALSE,
+C200120,vihaan.joshi69@yahoo.com,Vihaan Joshi,-7278436391,09-03-2024,IN,Delhi,retail,TRUE,
+C200121,saanvi.iyer64@hotmail.com,Saanvi Iyer,-9282951964,06-10-2024,IN,Kolkata,enterprise,TRUE,imported from legacy CRM
+C200122,sai.malhotra68@gmail.com,Sai Malhotra,-7847765467,09-11-2025,IN,Chandigarh,,TRUE,
+C200123,diya.shah92@hotmail.com,Diya Shah,-9681219590,04-05-2024,US,Indore,premium,TRUE,
+C200124,aadhya.nair50@rediffmail.com,Aadhya Nair,-7484729752,08-07-2025,IN,Jaipur,premium,TRUE,verified
+C200125,aadhya.shah37@rediffmail.com,Aadhya Shah,-7708157162,28-11-2024,IN,Ahmedabad,Enterprise,TRUE,imported from legacy CRM
+C200126,kiara.joshi25@hotmail.com,Kiara Joshi,-9511154923,09-05-2024,IN,Ahmedabad,retail,TRUE,
+C200127,rahul.singh15@gmail.com,Rahul Singh,-9357374097,07-03-2024,IN,Mumbai,premium,TRUE,duplicate of acct C100023?
+C200128,vivek.malhotra59@yahoo.com,Vivek Malhotra,-9114547482,19-07-2024,IN,Chandigarh,retail,FALSE,
+C200129,aadhya.bose31@gmail.com,Aadhya Bose,-8975158569,16-07-2025,SG,Delhi,premium,FALSE,
+C200130,diya.mehta13@outlook.com,Diya Mehta,-7454330161,22-10-2024,IN,Bengaluru,retail,FALSE,
+C200131,karan.kapoor60@hotmail.com,Karan Kapoor,-7190780405,30-07-2024,IN,Pune,premium,TRUE,
+C200132,reyansh.bansal86@hotmail.com,  Reyansh Bansal,-8115956116,13-12-2024,IN,Chandigarh,enterprise,TRUE,
+C200133,reyansh.rao24@yahoo.com,Reyansh Rao,-7810708645,22-04-2025,IN,hyderabad,retail,TRUE,
+C200134,kiara.kapoor46@outlook.com,KIARA KAPOOR,-7108172284,09-Dec-25,IN,Indore,retail,TRUE,
+C200135,aanya.rao19@gmail.com,Aanya Rao,-9372545261,18.01.2025,US,Kolkata,retail,FALSE,
+C200136,vihaan.kumar45@rediffmail.com,Vihaan Kumar,9.20E+11,19-05-2025,IN,Hyderabad,retail,TRUE,
+C200137,ravi.patel87@hotmail.com,Ravi Patel,-7588506368,22-07-2024,IN,Lucknow,retail,TRUE,
+C200138,diya.nair43@outlook.com,Diya Nair,-9551790395,01-10-2024,IN,Indore,retail,TRUE,VIP
+C200139,aarav.nair48@yahoo.com,Aarav Nair,-9987363790,01-02-2025,IN,Pune,retail,TRUE,
+C200140,anaya.agarwal14@rediffmail.com,Anaya Agarwal,-9201575046,02-08-2024,IN,Pune,Enterprise,FALSE,
+C200141,navya.malhotra3@yahoo.com,Navya Malhotra,-8174479224,23-06-2024,IN,Pune,retail,TRUE,imported from legacy CRM
+C200142,vivaan.iyer3@hotmail.com,Vivaan Iyer,-8948341032,27-10-2025,IN,Delhi,enterprise,FALSE,
+C200143,aadhya.chopra84@yahoo.com,Aadhya Chopra,-9698319509,24-05-2025,IN,Bengaluru,retail,FALSE,
+C200144,vivek.patel1@yahoo.com,Vivek Patel,-9812753172,16-09-2024,IN,Indore,retail,TRUE,
+C200145,aanya.shah20@gmail.com,Aanya Shah,-8980483878,25-01-2024,IN,Kolkata,retail,TRUE,
+C200146,vihaan.kumar39@rediffmail.com,VIHAAN KUMAR,-9227170938,,IN,Chandigarh,retail,TRUE,imported from legacy CRM
+C200147,shaurya.malhotra32@yahoo.com,Shaurya Malhotra,9.20E+11,25-02-2024,in,Lucknow,retail,TRUE,
+C200148,aadhya.singh14@rediffmail.com,Aadhya Singh,-7247691658,21-06-2025,IN,Lucknow,retail,TRUE,
+C200149,vihaan.nair2@yahoo.com,Vihaan Nair,-7916958099,22-04-2024,IN,Indore,retail,TRUE,verified
+C200150,kiara.sharma52@gmail.com,Kiara Sharma,-8407669480,20-10-2025,IN,Surat,retail,TRUE,
+C200151,aditya.rao34@rediffmail.com,Aditya  Rao,-7772539491,02-12-2024,UK,Chennai,premium,TRUE,
+C200152,arjun.agarwal65@gmail.com,Arjun Agarwal,-8740413797,30-09-2024,IN,Hyderabad,retail,FALSE,
+C200153,vivek.bose50@outlook.com,Vivek Bose,-9540449995,06-04-2025,IN, Hyderabad,premium,FALSE,verified
+C200154,pari.chopra71@outlook.com,Pari Chopra  ,8938333485,22-11-2025,IN,Pune,retail,TRUE,verified
+C200155,krishna.khan96@rediffmail.com,Krishna Khan,-8850109303,17-01-2025,IN,Delhi,premium ,TRUE,
+C200156,krishna.malhotra77@outlook.com,Krishna Malhotra,-8314738697,26-08-2025,IN,Bengaluru,retail,TRUE,
+C200157,anaya.malhotra7@gmail.com,Anaya Malhotra,7358718098,03-10-2024,US,Kolkata,retail,TRUE,
+C200158,aditya.gupta74@gmail.com,Aditya Gupta,+91 75063 36247,13-09-2024,IN,Pune,retail,FALSE,
+C200159,shaurya.gupta8@hotmail.com,Shaurya Gupta,-7504754956,26-03-2024,IN,Pune,retail,FALSE,duplicate of acct C100023?
+C200160,rahul.rao75@rediffmail.com,Rahul Rao,-7943872619,05-05-2025,IN,Chandigarh,retail,TRUE,
+C200161,nisha.patel23@gmail.com,Nisha Patel,-8801887976,23-05-2024,IN,Ahmedabad,premium,TRUE,
+C200162,aadhya.joshi95@gmail.com,Aadhya Joshi,-7954473122,13-11-2025,US,Indore,retail,FALSE,
+C200163,shaurya.bansal15@yahoo.com,Shaurya Bansal,-7524439798,03-07-2025,IN,Delhi,retail,TRUE,VIP
+C200164,aanya.verma56@hotmail.com,Aanya Verma,-7790836959,21-05-2025,IN,Indore,premium,TRUE,verified
+C200165,saanvi.kumar71@yahoo.com,Saanvi Kumar,-9431311851,16-01-2024,IN,Bengaluru,premium,FALSE,
+C200165,tara.malhotra73@yahoo.com,Tara Malhotra,-9601449122,16-05-2025,IN,Surat,retail,TRUE,imported from legacy CRM
+C200166,vivek.khan88@hotmail.com,Vivek Khan,-8688717317,18-04-2025,UK ,Lucknow,retail,TRUE,verified
+C200167,priya.joshi12@hotmail.com,Priya Joshi,-7747373863,25-12-2024,IN,Lucknow,retail,TRUE,VIP
+C200168,vivek.reddy49@yahoo.com,Vivek Reddy  ,-9318553659,24-09-2025,IN,Bengaluru,enterprise,TRUE,duplicate of acct C100023?
+C200169,aadhya.chopra63@gmail.com,Aadhya Chopra,-7290889618,26-09-2025,in ,Hyderabad,retail,FALSE,
+C200171,krishna.singh28@yahoo.com,Krishna Singh,9.20E+11,18-12-2024,IN,Surat,retail,FALSE,verified
+C200172,rahul.malhotra89@outlook.com,Rahul Malhotra,-8211925742,24-10-2024,IN,Indore,enterprise,FALSE,VIP
+C200173,diya.sharma23@rediffmail.com,Diya Sharma,-8783407180,20-10-2024,IN,Bengaluru,retail,FALSE,imported from legacy CRM
+C200174,aarav.gupta36@rediffmail.com,Aarav Gupta,-7994508500,12-06-2024,US,Jaipur,premium,TRUE,verified
+C200175,anika.mehta69@rediffmail.com,Anika Mehta,-9366421236,25-02-2024,IN,Surat ,retail,TRUE,duplicate of acct C100023?
+C200176,krishna.bose58@outlook.com,Krishna Bose,-8846326574,17-10-2025,IN,Lucknow,premium,TRUE,VIP
+C200177,aditya.bansal15@rediffmail.com,Aditya Bansal,-9860175186,05-11-2024,UK,Delhi,enterprise,TRUE,VIP
+C200178,reyansh.malhotra40@outlook.com,Reyansh Malhotra,-7162798633,11.11.2025,IN,Mumbai,retail,FALSE,
+C200179,neha.khan70@gmail.com,Neha Khan,,08-07-2024,IN,Indore,retail,TRUE,
+C200180,reyansh.kumar54@yahoo.com,Reyansh Kumar,8297182516,11-12-2025,IN,Jaipur,enterprise,TRUE,
+C200181,aditya.singh39@outlook.com,Aditya  Singh,-8324836098,06-10-2024,AE,Jaipur,enterprise,TRUE,duplicate of acct C100023?
+C200182,ravi.nair3@rediffmail.com,ravi nair,-108396,03-12-2025,IN,Lucknow,retail,1,imported from legacy CRM
+C200183,anaya.khan21@gmail.com,Anaya Khan,-7214412297,04-11-2024,AE,Mumbai,retail,FALSE,
+C200184,sai.kapoor67@rediffmail.com,Sai Kapoor,-9927186997,01-01-2024,IN,Surat,retail,TRUE,
+C200185,krishna.nair45@outlook.com,Krishna Nair,-7455510920,16-01-2024,UK,Chennai,retail,FALSE,VIP
+C200186,pari.joshi67@outlook.com,Pari Joshi,-8767345681,28-02-2025,IN,Bengaluru,retail,TRUE,
+C200187,krishna.joshi24,Krishna Joshi,-9770739796,23.09.2024,IN,Lucknow,retail,TRUE,
+C200188,sai.gupta30@gmail.com,Sai Gupta,-8621445502,28-07-2024,IN,Surat,retail,FALSE,verified
+C200189,karan.khan32@hotmail.com,Karan Khan,-7145534400,24-07-2025,SG,Pune,premium,FALSE,verified
+C200190,aditya.chopra18@hotmail.com,Aditya Chopra,-9901343713,12-12-2024,SG,Chennai,retail,TRUE,
+C200191,navya.patel61@gmail.com,Navya Patel,-7610134409,24-01-2025,AE,Kolkata,premium,FALSE,
+C200192,reyansh.mehta64@yahoo.com,Reyansh Mehta,-8450245194,19-05-2024,IN,Indore,retail,FALSE,duplicate of acct C100023?
+C200193,krishna.singh90@yahoo.com,Krishna Singh  ,-9784575700,11-01-2025,IN,Delhi,premium,FALSE,duplicate of acct C100023?
+C200194,ravi.patel24@outlook.com,Ravi Patel,-9150229021,10-11-2024,IN,Lucknow,retail,TRUE,
+C200195,anika.agarwal57@rediffmail.com  ,Anika Agarwal,-8194185351,31-10-2025,IN,Delhi,premium,TRUE,
+C200196,rahul.khan24@yahoo.com,Rahul Khan,-8753695957,17-04-2024,IN,Surat,premium,TRUE,verified
+C200197,diya.kapoor63@hotmail.com,Diya Kapoor,-7295254453,25-04-2025,SG,Mumbai,retail,TRUE,imported from legacy CRM
+C200198,anika.verma37@yahoo.com,Anika Verma,-7277520589,04-08-2024,AE,Mumbai,retail,TRUE,
+C200199,saanvi.kapoor84@gmail.com,Saanvi Kapoor,-8125291341,16-12-2024,IN,Hyderabad,enterprise,TRUE,duplicate of acct C100023?
+C200200,ravi.kapoor72@outlook.com,Ravi Kapoor,-9584362843,30-09-2025,IN,Bengaluru,retail,TRUE,duplicate of acct C100023?
+C200201,navya.kapoor54@hotmail.com,Navya Kapoor,-9700582610,19-09-2024,IN,Ahmedabad,retail,TRUE,
+C200202,ravi.mehta60@rediffmail.com,Ravi Mehta,-9395902298,24-06-2024,AE,Pune,retail,TRUE,verified
+C200203,sai.joshi37@gmail.com,Sai Joshi,-9803103268,21-12-2024,IN,Delhi,retail,TRUE,duplicate of acct C100023?
+C200204,pari.chopra88@gmail.com,Pari Chopra,9608520379,02-10-2024,IN,Chandigarh,retail,FALSE,duplicate of acct C100023?
+C200205,ananya.bose82@hotmail.com,Ananya Bose,-7756249885,28-01-2024,IN,Ahmedabad,retail,TRUE,imported from legacy CRM
+C200206,vivaan.iyer75@hotmail.com,Vivaan Iyer,-7360304281,10-10-2025,IN,Kolkata,retail,FALSE,
+C200207,aditya.bose62@yahoo.com,Aditya Bose,-8423981914,12-11-2025,IN,Pune,premium,TRUE,duplicate of acct C100023?
+C200208,tara.shah39@yahoo.com,Tara Shah,9.19E+11,29-12-2025,IN,Hyderabad,premium,FALSE,duplicate of acct C100023?
+C200208,saanvi.iyer30@rediffmail.com,Saanvi Iyer,-138764,12-06-2025,IN,Ahmedabad,retail,TRUE,imported from legacy CRM
+C200209,nisha.bose39@yahoo.com,Nisha Bose,-7928123880,08-06-2025,U.K.,Ahmedabad,premium,TRUE,
+C200210,rahul.chopra83@gmail.com,Rahul Chopra,-9263214602,22-09-2024,SG,Kolkata,retail ,TRUE,
+C200211,tara.reddy91@rediffmail.com,Tara Reddy,-9228885386,16-11-2025,UK ,Kolkata,premium,TRUE,VIP
+C200212,ravi.sharma73@outlook.com,Ravi Sharma,-8754615734,18-08-2024,IN,Pune,retail,TRUE,
+C200214,rohan.reddy88@gmail.com,Rohan Reddy,-8436156837,28-01-2024,IN,Lucknow,retail,TRUE,
+C200215,anaya.verma43@gmail.com,Anaya Verma,-8322647843,14-05-2025,IN,Delhi,premium,TRUE,
+C200216,saanvi.khan32@outlook.com,Saanvi Khan,-7694481844,09-04-2024,USA,Kolkata,retail,1,
+C200217,diya.gupta68@rediffmail.com,Diya Gupta,-8320526438,29-08-2024,US,Delhi,retail,TRUE,duplicate of acct C100023?
+C200218,karan.nair98@rediffmail.com,Karan Nair,-9612363283,23-08-2025,IN,Mumbai,retail,TRUE,duplicate of acct C100023?
+C200219,anaya.verma79@yahoo.com,Anaya Verma  ,-7664385721,21-08-2025,IN,Pune,retail,TRUE,VIP
+C200220,vivaan.verma59@gmail.com,Vivaan Verma,-8209597823,17-07-2024,AE,Mumbai ,retail,yes,
+C200221,aadhya.kapoor57@yahoo.com,Aadhya Kapoor,-8610700928,07-09-2024,IN,Chandigarh,retail,TRUE,VIP
+C200222,aanya.verma12@rediffmail.com,Aanya Verma,-7351157315,07-08-2025,IN,Mumbai,retail,TRUE,
+C200223,maya.shah80@gmail.com,Maya Shah,-7351993401,13-05-2025,SG,Pune,premium,TRUE,
+C200224,ananya.gupta3@yahoo.com,Ananya Gupta,-9621704926,24-02-2025,IN,Chennai,retail,TRUE,imported from legacy CRM
+C200225,tara.reddy58@yahoo.com,Tara  Reddy,-8778557982,28-07-2024,IN,Pune,premium ,FALSE,imported from legacy CRM
+C200226,ravi.gupta80@gmail.com,Ravi Gupta,-8852596462,02-10-2025,US,Ahmedabad,premium,TRUE,
+C200227,pari.chopra86@gmail.com,Pari Chopra,-9332410557,22-08-2024,IN,Lucknow,premium,TRUE,
+C200228,aanya.rao84@outlook.com,Aanya Rao,-7715907699,28-03-2024,IN,Indore,retail,TRUE,duplicate of acct C100023?
+C200229,aarav.nair45@hotmail.com,Aarav Nair,-8192743236,23-01-2025,IN,Kolkata,retail,TRUE,verified
+C200230,maya.nair8@hotmail.com,Maya Nair,-9152961083,08-08-2024,US,Kolkata,retail,TRUE,duplicate of acct C100023?
+C200231,tara.joshi96@outlook.com,Tara Joshi,-9589363695,19-09-2024,IN,Jaipur,retail,FALSE,
+C200232,aarav.singh97@rediffmail.com,Aarav Singh,-8929861782,05-06-2025,AE,Hyderabad,premium,TRUE,
+C200233,saanvi.joshi22@hotmail.com,Saanvi Joshi,-9599403096,06-03-2025,IN,Delhi,retail,TRUE,
+C200234,pari.bansal57@rediffmail.com,Pari Bansal,-7397469668,18-03-2025,IN,Delhi,retail,TRUE,
+C200235,sai.malhotra28@hotmail.com,Sai Malhotra,-9380253494,02-01-2025,IN,Jaipur,retail,TRUE,
+C200236,karan.chopra20@outlook.com,Karan Chopra,-9993974834,17-09-2025,IN,Bengaluru,retail,TRUE,VIP
+C200237,rohan.sharma95@yahoo.com,Rohan  Sharma,-8121612774,28-02-2024,INDIA,Mumbai,premium,TRUE,imported from legacy CRM
+C200238,anika.chopra9@gmail.com,Anika Chopra,-8121830740,21-09-2025,IN,Hyderabad,retail,FALSE,duplicate of acct C100023?
+C200238,ananya.rao80@outlook.com,Ananya Rao,-9429453341,11-08-2024,US,Indore,retail,TRUE,
+C200239,vivek.agarwal37@rediffmail.com,Vivek Agarwal,-9467334163,15-07-2025,IN,Lucknow,retail,TRUE,VIP
+C200240,rahul.joshi57@hotmail.com,Rahul Joshi,-7947291064,29-08-2025,IN,Bengaluru,retail,TRUE,
+C200241,diya.rao99@outlook.com,Diya Rao,-7590481879,01-03-2024,IN,Indore,premium,TRUE,
+C200242,maya.patel99@rediffmail.com,Maya Patel,-9125199749,27-11-2024,IN,Pune,premium,TRUE,
+C200244,karan.joshi7@hotmail.com,Karan Joshi,-8326688510,22-01-2024,IN,Pune,retail,TRUE,verified
+C200245,shaurya.reddy2@gmail.com,Shaurya Reddy,-8417536614,29-08-2025,IN,Bengaluru,retail,TRUE,VIP
+C200246,saanvi.khan25@outlook.com,Saanvi Khan,-9872752793,06-11-2025,IN,Indore,enterprize,TRUE,VIP
+C200247,priya.malhotra65@outlook.com,Priya Malhotra,-8554654517,12-08-2025,IN,Surat,premium,TRUE,
+C200248,shaurya.sharma38@outlook.com,Shaurya Sharma,-8132779291,10-02-2024,IN,Hyderabad,retail,TRUE,
+C200249,rahul.bansal88@hotmail.com,Rahul Bansal,-9480880620,10-04-2025,IN,Jaipur,retail,TRUE,verified
+C200250,rohan.rao10@gmail.com,Rohan Rao,-7647452100,10-07-2025,IN,Jaipur,retail,TRUE,
+C200251,pari.malhotra10@rediffmail.com,Pari Malhotra,91-7113255465,02-02-2025,IN,Surat,retail,TRUE,VIP
+C200252,neha.nair76@rediffmail.com,Neha Nair,-9157710592,27-12-2025,IN,Ahmedabad,premium,TRUE,
+C200253,saanvi.rao58@rediffmail.com,Saanvi Rao,-8691762161,21-09-2025,IN,Chennai,premium,TRUE,
+C200254,kiara.patel32@outlook.com,Kiara Patel,-8281685811,19-06-2025,IN,Chandigarh,retail,TRUE,duplicate of acct C100023?
+C200255,vivek.iyer98@yahoo.com,Vivek Iyer,-7452135787,23-05-2024,US,Chandigarh,retail,FALSE,imported from legacy CRM
+C200256,saanvi.joshi34@yahoo.com,Saanvi Joshi,-8750220677,09/21/2025,in ,Chandigarh,retail,TRUE,
+C200257,priya.reddy50@yahoo.com,Priya Reddy,-8606786629,06-02-2024,IN,Hyderabad,retail,TRUE,verified
+C200258,aditya.patel33@yahoo.com,Aditya Patel,-9342499380,23-10-2024,AE,Chandigarh,premium,TRUE,
+C200259,karan.chopra92@outlook.com,Karan Chopra,-8107161650,24-02-2025,IN,Kolkata,retail,TRUE,
+C200260,vihaan.sharma47@rediffmail.com,Vihaan Sharma,-8670445963,02-02-2025,IN,Lucknow,retail,FALSE,
+C200261,reyansh.khan2@hotmail.com,Reyansh Khan,-9884775437,01-08-2025,IN,Ahmedabad,retail,TRUE,
+C200262,aditya.bansal5@yahoo.com,Aditya  Bansal,7492590516,18-08-2024,US,Lucknow,retail,FALSE,
+C200263,diya.verma45@gmail.com,Diya Verma,-7383270109,21-09-2025,IN,Mumbai,retail,TRUE,
+C200264,arjun.patel92@gmail.com,Arjun Patel,-7966458720,08-09-2025,SG,Surat,retail,FALSE,
+C200265,shaurya.mehta25@hotmail.com,Shaurya Mehta,-7547310203,16.03.2024,IN,Bengaluru,retail,TRUE,
+C200266,vivek.chopra53@yahoo.com,Vivek Chopra,-8681883253,04-06-2025,IN,Mumbai,retail,FALSE,
+C200267,kiara.sharma25@outlook.com,Kiara Sharma,-7532926960,24-08-2025,U.K.,Hyderabad,retail,TRUE,imported from legacy CRM
+C200268,arjun.mehta50@outlook.com,Arjun Mehta,-9210784704,11-02-2024,IN,Hyderabad,retail,TRUE,
+C200269,vivek.kumar90@yahoo.com,Vivek Kumar,-9502994255,15-12-2024,IN,Delhi,retail,FALSE,VIP
+C200270,aanya.malhotra76@rediffmail.com,Aanya Malhotra,9690705125,11-10-2024,SG,Ahmedabad,premium,TRUE,duplicate of acct C100023?
+C200271,arjun.reddy52@hotmail.com,Arjun Reddy,-9192237921,02-11-2025,IN,Chandigarh,retail,TRUE,
+C200272,kiara.chopra25@outlook.com,Kiara Chopra,-8783998763,31-01-2024,IN,Pune,retail,TRUE,VIP
+C200273,anika.reddy26@hotmail.com,Anika Reddy,-9722455820,02-01-2024,IN,Indore,retail,TRUE,
+C200274,ishaan.bose65@gmail.com,Ishaan Bose,7541850804,26-08-2024,US,Bengaluru,premium,TRUE,duplicate of acct C100023?
+C200275,rahul.nair35,Rahul Nair,-9507353054,16-11-2024,IN,Surat,retail,TRUE,verified
+C200276,arjun.rao17@rediffmail.com,Arjun Rao,-9265818547,06-02-2024,IN,Bengaluru,retail,TRUE,VIP
+C200277,karan.malhotra83@gmail.com,Karan Malhotra,-8200137407,22-05-2024,IN,Hyderabad,premium,TRUE,VIP
+C200278,ravi.malhotra15@gmail.com,Ravi Malhotra,-9763126754,05-02-2025,USA,Mumbai,retail,TRUE,imported from legacy CRM
+C200279,sai.bansal45@yahoo.com,Sai Bansal,-7717834543,18-12-2024,UK,Pune,premium,TRUE,duplicate of acct C100023?
+C200280,neha.nair71@rediffmail.com,Neha Nair,-7983156308,24-11-2025,IN,Pune,retail,TRUE,
+C200281,rohan.nair60@yahoo.com,Rohan Nair,-7551599481,26-09-2024,IN,Jaipur,retail,TRUE,
+C200282,anika.singh47@rediffmail.com,Anika Singh,-8798201497,24-10-2024,IN,Lucknow,retail,TRUE,
+C200283,priya.bose51@hotmail.com,Priya Bose,91-8182223430,17-02-2024,IN,Jaipur,retail,TRUE,
+C200284,arjun.shah20@rediffmail.com,Arjun Shah,-8200731226,23-08-2024,IN,Ahmedabad,retail,TRUE,imported from legacy CRM
+C200285,priya.rao94@gmail.com,Priya Rao,-7272606306,25-05-2024,IN,Bengaluru,retail,TRUE,imported from legacy CRM
+C200286,maya.patel73@yahoo.com,Maya Patel,-7440567467,06-07-2024,IN,Mumbai,retail,FALSE,
+C200287,tara.singh55@gmail.com,Tara Singh,,29-10-2025,IN,Kolkata,premium,TRUE,imported from legacy CRM
+C200288,reyansh.verma78@yahoo.com,Reyansh Verma,-8606415668,10-11-2024,UK,Chennai,premium,TRUE,
+C200289,aanya.mehta59@rediffmail.com,Aanya Mehta,-7428163332,02-03-2025,UK,Surat,enterprise,TRUE,imported from legacy CRM
+C200290,krishna.singh70@rediffmail.com,Krishna Singh,-9985397198,11-09-2024,IN,Jaipur,retail,FALSE,
+C200291,maya.reddy98@yahoo.com,Maya Reddy,-8790540531,14-12-2025,AE,Chennai,retail,FALSE,VIP
+C200292,vihaan.iyer22@yahoo.com,Vihaan Iyer,-8608987407,21-10-2025,IN,Chennai,retail,FALSE,
+C200293,kiara.kapoor32@yahoo.com,Kiara Kapoor,-7819630023,04-09-2025,IN,Surat,premium,TRUE,duplicate of acct C100023?
+C200294,vivek.nair53@yahoo.com,Vivek Nair,-9483530432,09-01-2025,IN,Hyderabad,retail,TRUE,verified
+C200295,ravi.reddy89@yahoo.com,Ravi Reddy,-8495814573,20-10-2025,IN,KOLKATA,retail,FALSE,
+C200296,vivek.mehta39@rediffmail.com,Vivek Mehta,-8751222629,17-12-2025,IN,Chandigarh,retail,1,
+C200297,anika.reddy98@hotmail.com,Anika Reddy,,27-12-2024,IN,Chennai,premium,TRUE,
+C200298,vivek.reddy40@hotmail.com,Vivek Reddy,-7314769727,06-08-2025,US,Pune,retail,FALSE,
+C200299,aanya.patel11@rediffmail.com,Aanya Patel,-9115353844,09-04-2025,IN,Ahmedabad,retail,FALSE,duplicate of acct C100023?
+C200300,aanya.shah46@outlook.com,Aanya Shah,7468752357,01-12-2025,IN, Bengaluru,retail,TRUE,
+C200301,sai.bansal84@gmail.com,Sai Bansal,-9194287324,24-02-2025,IN,Hyderabad,enterprise,TRUE,
+C200302,neha.gupta11@hotmail.com,Neha Gupta,-9136595867,15-05-2024,IN,Chandigarh,retail,TRUE,VIP
+C200303,ravi.nair66@rediffmail.com,Ravi Nair,-9941927047,31-03-2025,IN,Bengaluru,premium,TRUE,duplicate of acct C100023?
+C200304,anaya.gupta15@hotmail.com,ANAYA GUPTA,-7576277043,31-07-2025,IN,Chandigarh,premium,TRUE,imported from legacy CRM
+C200305,arjun.malhotra12@yahoo.com,Arjun Malhotra,-8763987924,04-07-2025,IN,Kolkata,enterprise,FALSE,VIP
+C200305,ravi.joshi54.gmail.com,Ravi Joshi,8660496586,05-04-2024,UK,Chennai,retail,TRUE,duplicate of acct C100023?
+C200306,anaya.agarwal98@yahoo.com,Anaya Agarwal,-8436645741,31-10-2025,IN,Ahmedabad,retail,FALSE,verified
+C200307,aadhya.kumar71@yahoo.com,Aadhya Kumar,-9302694456,29-06-2025,USA,Ahmedabad,retail,TRUE,
+C200308,nisha.chopra81@yahoo.com,Nisha  Chopra,-8945792243,26-03-2025,in,Surat,,TRUE,duplicate of acct C100023?
+C200309,navya.rao83@gmail.com,Navya Rao,-8268548231,24-08-2024,UK,Delhi,premium,TRUE,verified
+C200311,anaya.malhotra59@rediffmail.com,Anaya Malhotra,-9828442150,03-08-2025,IN,Bengaluru,retail,TRUE,
+C200312,diya.verma71@gmail.com,  Diya Verma,-8784335274,25-12-2024,IN,Pune,retail,FALSE,
+C200313,vivek.singh8@rediffmail.com,Vivek Singh,-9959748409,25-01-2025,IN,Bengaluru,retail,FALSE,
+C200314,anaya.iyer24@gmail.com,Anaya Iyer,-7293496697,18-11-2024,IN,Delhi,premium,TRUE,VIP
+C200315,aadhya.bose46@gmail.com,Aadhya Bose,-8202932045,25-09-2024,AE,Delhi,premium,TRUE,
+C200316,pari.kumar22@outlook.com,Pari Kumar,-7923334294,04-05-2024,IN,Ahmedabad,retail,TRUE,
+C200317,,Ananya Rao,-9134153000,29-10-2024,IN,Hyderabad,premium,TRUE,
+C200318,aditya.kapoor54@gmail.com,Aditya Kapoor,-8351523235,04-09-2025,IN,Chennai,retail,TRUE,
+C200319,shaurya.nair35@rediffmail.com,Shaurya Nair,-8509692379,05-07-2025,IN,Mumbai,retail,FALSE,
+C200320,navya.bose49@gmail.com,Navya Bose,-8737154184,08-01-2024,IN,Hyderabad,retail,TRUE,
+C200321,vivek.bose77@gmail.com,Vivek Bose,-9129477684,08-01-2024,IN,Jaipur,retail,TRUE,
+C200322,priya.bansal84@hotmail.com,Priya Bansal,-7452504845,03-10-2024,IN,SURAT,enterprise,TRUE,
+C200323,vivek.singh87@outlook.com,Vivek Singh,8646707164,21-06-2025,IN,Mumbai,premium,TRUE,
+C200324,anika.kapoor72@gmail.com,Anika Kapoor,-9586239019,19-01-2025,IN,Lucknow,retail,TRUE,verified
+C200325,arjun.bose15@outlook.com,Arjun Bose,-8107444078,18-08-2024,UK,Kolkata,premium,TRUE,verified
+C200326,ishaan.patel53@hotmail.com,Ishaan Patel,-9162717038,18-12-2025,IN,Mumbai,retail,TRUE,
+C200327,sai.kumar75@hotmail.com,Sai Kumar,-8227945746,01-04-2025,IN,Jaipur,premium,FALSE,
+C200328,ananya.chopra53@rediffmail.com,Ananya Chopra,-8637556232,16-May-24,INDIA,Mumbai,enterprise,TRUE,
+C200329,nisha.khan30.yahoo.com,Nisha Khan,-7570774469,08-05-2025,IN,Pune,retail ,TRUE,duplicate of acct C100023?
+C200330,rohan.sharma17@gmail.com,Rohan Sharma,-7848981517,12-02-2024,IN,Delhi,retail,no,imported from legacy CRM
+C200331,neha.reddy71@gmail.com,Neha Reddy,-8384851337,17-08-2025,india,indore,retail,TRUE,
+C200332,anaya.reddy68@rediffmail.com,Anaya Reddy,-9817439964,16-10-2025,IN,Hyderabad,enterprise,TRUE,VIP
+C200333,krishna.kumar5@hotmail.com,Krishna Kumar,-9940450384,03-08-2025,IN,Indore,enterprise,TRUE,
+C200334,vivaan.verma51@gmail.com,Vivaan Verma,-9848887854,14-05-2025,IN,Lucknow,enterprise,TRUE,
+C200335,karan.rao86@outlook.com,Karan Rao,-9545485358,01-03-2024,IN,Delhi,premium,TRUE,VIP
+C200336,navya.rao5@rediffmail.com,Navya Rao,-7573764760,10-02-2025,IN,Jaipur,retail,TRUE,
+C200336,tara.chopra60@yahoo.com,Tara Chopra,-7562563637,27-11-2025,US,Indore,retail,FALSE,imported from legacy CRM
+C200337,priya.iyer30.yahoo.com,Priya Iyer,-7525959949,12-12-2025,IN,Bengaluru,premium,FALSE,imported from legacy CRM
+C200338,ravi.kapoor23@outlook.com,Ravi Kapoor,-9279471392,26-03-2024,india,Delhi,retail,TRUE,
+C200339,ravi.bansal7@hotmail.com,Ravi Bansal,-9596947244,16-03-2024,AE,Ahmedabad,retail,1,
+C200340,kiara.kapoor82@yahoo.com,Kiara Kapoor,-9474480906,04-03-2024,IN,Pune,retail,TRUE,
+C200342,navya.chopra41@outlook.com,Navya Chopra,(+91) 7807202003,12-08-2025,IN,Kolkata,premium,FALSE,verified
+C200343,pari.nair46@gmail.com  ,Pari Nair,-8736816835,19-07-2024,IN,Hyderabad,retail,FALSE,
+C200344,shaurya.nair89@outlook.com,Shaurya Nair,-8600996188,20-06-2025,IN,Indore,retail,FALSE,
+C200345,diya.gupta99@rediffmail.com,Diya Gupta,-7987425606,21-01-2025,IN,Bengaluru,retail,FALSE,
+C200346,nisha.bansal79@yahoo.com,Nisha Bansal,-9211754532,24-03-2025,IN,Bengaluru,retail,TRUE,
+C200347,ishaan.verma57@hotmail.com,Ishaan Verma,-7852801545,24-01-2024,IN,Chennai,retail,TRUE,
+C200348,aanya.joshi86@rediffmail.com,Aanya Joshi,9.18E+11,16-09-2024,UK,Pune,retail,TRUE,duplicate of acct C100023?
+C200349,aditya.bose13@rediffmail.com,Aditya Bose,-9229334517,23-06-2025,IN,Surat,retail,TRUE,
+C200350,anaya.bose58@hotmail.com,Anaya Bose,-7559833901,,INDIA,Jaipur,retail ,TRUE,
+C200351,vihaan.joshi93@yahoo.com,Vihaan Joshi,-9524445167,15-08-2025,IN,Jaipur,retail,TRUE,imported from legacy CRM
+C200352,shaurya.gupta45@gmail.com,Shaurya Gupta,-8475314710,13-07-2024,UK,Delhi,enterprise,TRUE,
+C200353,anaya.agarwal63@gmail.com,Anaya Agarwal,-8267151512,23-12-2025,IN,Lucknow,retail,TRUE,imported from legacy CRM
+C200354,ishaan.iyer11@yahoo.com,Ishaan Iyer,-7250988756,30-01-2024,IN,Lucknow,Retail,TRUE,imported from legacy CRM
+C200355,neha.joshi40@yahoo.com,Neha Joshi,-9540207730,19-04-2025,IN,Lucknow,retail,TRUE,
+C200356,krishna.singh30@outlook.com,Krishna Singh,-9971973432,26-07-2024,IN,Bengaluru,retail,TRUE,
+C200357,vihaan.rao70@hotmail.com,Vihaan Rao,-7939486617,09-08-2024,IN,Hyderabad,premium,FALSE,
+C200358,rahul.malhotra11@outlook.com,Rahul Malhotra,-7308554318,01-09-2024,IN,Chandigarh,retail,TRUE,
+C200359,shaurya.verma17@hotmail.com,Shaurya Verma,-7927875265,25-09-2024,IN,Delhi,retail,TRUE,
+C200360,vivek.reddy1@rediffmail.com,Vivek Reddy,-9484662565,03-09-2024,IN,Bengaluru,premium,TRUE,
+C200361,reyansh.kumar62@outlook.com,Reyansh Kumar,-7666193883,05-06-2025,IN,Kolkata,premium,TRUE,
+C200362,vivaan.shah93@hotmail.com,Vivaan Shah,-7274165695,06-04-2025,AE,Chennai,enterprise,TRUE,imported from legacy CRM
+C200363,saanvi.patel45@@rediffmail.com,Saanvi Patel,-8526220003,19-10-2025,IN,Hyderabad,retail,TRUE,VIP
+C200364,rohan.kapoor18@rediffmail.com,,-8562250811,13-02-2025,IN,Mumbai,Premium,FALSE,verified
+C200365,neha.bose24@hotmail.com,Neha Bose,-9925971779,09-08-2024,IN,Chennai,retail,Y,
+C200366,saanvi.shah18@outlook.com,Saanvi Shah,+91 85419 06299,26-10-2024,IN,Surat,premium,TRUE,
+C200367,kiara.bansal9@rediffmail.com,Kiara Bansal,-9734252782,22-07-2025,IN,Delhi,retail ,TRUE,
+C200368,anaya.nair62@yahoo.com,Anaya Nair,-9187994869,22-01-2025,IN,Ahmedabad,premium,TRUE,imported from legacy CRM
+C200369,vihaan.agarwal80@hotmail.com,Vihaan Agarwal  ,-7796580725,05-03-2024,IN,JAIPUR,retail,TRUE,
+C200370,arjun.kumar10@rediffmail.com,Arjun Kumar,7987566850,20-07-2025,IN,Hyderabad,premium,TRUE,imported from legacy CRM
+C200371,kiara.iyer31@gmail.com,Kiara Iyer,-7295914299,19-11-2025,IN,Surat,retail,TRUE,imported from legacy CRM
+C200371,rohan.agarwal81@rediffmail.com,Rohan Agarwal,-7123309373,21-12-2024,IN,Indore,enterprise,TRUE,
+C200372,ishaan.mehta6@yahoo.com,Ishaan Mehta,-9452528890,08-06-2025,IN,Chennai,retail,TRUE,
+C200373,aditya.chopra20@gmail.com,Aditya Chopra,8690460394,09-09-2024,IN,Chennai,premium,TRUE,VIP
+C200374,ishaan.kapoor72@outlook.com,Ishaan Kapoor,-8877306779,09/21/2024,IN,Surat,premium,TRUE,imported from legacy CRM
+C200375,diya.mehta72@rediffmail.com,Diya Mehta,-7363935437,24-10-2025,IN,Indore,retail,Y,VIP
+C200377,neha.sharma81@yahoo.com,neha sharma,-9694354680,29-09-2025,IN,Lucknow,retail,TRUE,
+C200378,navya.gupta32@hotmail.com,Navya Gupta,-7837335928,11-11-2025,IN,Pune,retail,FALSE,
+C200379,vivek.bansal38@rediffmail.com,Vivek Bansal,-9940679794,06-02-2024,IN,Jaipur,premium,TRUE,
+C200380,shaurya.kumar74@hotmail.com,Shaurya Kumar,-8208407351,22-01-2024,IN,Jaipur,premium,TRUE,VIP
+C200381,vivek.kapoor11@yahoo.com,Vivek Kapoor,-9385966152,26-07-2024,IN,Chandigarh,retail,TRUE,
+C200382,sai.agarwal83@rediffmail.com,Sai Agarwal,-9902603678,27-04-2025,IN,Hyderabad,retail,TRUE,
+C200383,pari.rao36@gmail.com,Pari Rao,-9406746132,02-10-2024,IN,Surat,retail,TRUE,
+C200384,anaya.nair64@rediffmail.com,Anaya Nair,-7464253384,31-05-2025,IN, Pune,retail,TRUE,
+C200385,aditya.kumar3@@outlook.com,Aditya Kumar,-9870853333,22-09-2025,IN,Surat,retail,TRUE,imported from legacy CRM
+C200386,kiara.bansal47@rediffmail.com,Kiara Bansal,-8192807679,15-07-2025,IN,Kolkata,retail,TRUE,duplicate of acct C100023?
+C200386,rohan.iyer63@outlook.com,Rohan Iyer,91-8605267150,29-03-2025,IN,Ahmedabad,retail,TRUE,imported from legacy CRM
+C200387,maya.mehta51@rediffmail.com,Maya Mehta,-9466412489,18-06-2024,IN,Bengaluru,retail,TRUE,imported from legacy CRM
+C200388,sai.agarwal67@yahoo.com,Sai Agarwal,-8190782827,07-04-2025,IN,Chennai,premium,TRUE,
+C200389,rohan.shah21@outlook.com,Rohan Shah,-8551399761,26-04-2024,IN,Ahmedabad,premium,FALSE,duplicate of acct C100023?
+C200390,navya.kapoor55@outlook.com,NAVYA KAPOOR,-7713815853,04-10-2024,IN,Jaipur,premium,no,
+C200392,neha.reddy60@rediffmail.com,Neha Reddy,-9584766073,30-06-2024,IN,Chandigarh,retail,TRUE,
+C200393,ishaan.nair92@hotmail.com,Ishaan Nair,-8800368299,14-09-2025,US,Hyderabad,retail,TRUE,
+C200394,priya.chopra55@rediffmail.com,Priya  Chopra,-7635674474,21-03-2025,IN,Bengaluru,premium,FALSE,
+C200395,vihaan.sharma68@gmail.com,Vihaan Sharma,-8130927126,29-06-2024,UK,Delhi,premium,FALSE,
+C200396,sai.joshi2@gmail.com,Sai Joshi,+91 84225 96864,17-05-2025,US,Lucknow,retail,TRUE,
+C200397,navya.kumar5@rediffmail.com,Navya Kumar,-7586490315,05-01-2025,IN,Delhi,retail,TRUE,
+C200398,krishna.rao21@hotmail.com,Krishna Rao,-8379343465,24-08-2025,IN,Lucknow,retail,TRUE,
+C200399,pari.chopra89@gmail.com,Pari Chopra,-7111822129,23-08-2025,IN,Mumbai,PREMIUM,TRUE,
+C200400,aadhya.rao66@yahoo.com,Aadhya Rao,-8186879058,22-10-2025,SG,Mumbai,retail,1,
+C200401,aarav.rao34@rediffmail.com,Aarav Rao,-8435254298,18-04-2025,IN,Jaipur,retail,TRUE,
+C200402,anika.rao90@hotmail.com,Anika Rao,-9354119771,16-04-2024,US,Delhi,retail,TRUE,
+C200403,anika.reddy37@gmail.com,Anika Reddy,-8543955145,25-11-2025,IN,Surat,retail,TRUE,
+C200404,ishaan.kumar52@outlook.com,Ishaan Kumar,-9517432237,11-03-2024,IN,Pune,premium,TRUE,VIP
+C200405,diya.sharma62,Diya Sharma,-9948254129,14-04-2025,IN,Hyderabad,premium,FALSE,duplicate of acct C100023?
+C200406,ananya.kapoor67@hotmail.com,Ananya Kapoor,91-9800667638,11-03-2025,IN,Pune,retail,FALSE,VIP
+C200407,saanvi.kapoor33@outlook.com,Saanvi Kapoor,-8709603163,21-03-2024,IN,Bengaluru,retail,TRUE,VIP
+C200408,priya.iyer17@gmail.com,Priya Iyer,-7670417087,11-01-2025,IN,Surat,premium,TRUE,duplicate of acct C100023?
+C200409,vivaan.bansal99@hotmail.com,Vivaan Bansal,(+91) 7561344402,21-01-2024,IN,Surat,premium,TRUE,
+C200410,aarav.agarwal78@yahoo.com,Aarav Agarwal,-9634293800,,IN,Chennai,retail,no,VIP
+C200411,saanvi.shah54@rediffmail.com,Saanvi Shah,-9761601727,24-02-2025,IN,Jaipur,retail,TRUE,
+C200412,aditya.bansal68@yahoo.com,Aditya Bansal,-9204172624,07-11-2025,IN,Chandigarh,retail,TRUE,
+C200413,kiara.malhotra55@yahoo.com,Kiara Malhotra,-7410830568,07-01-2024,UK,Pune,retail,TRUE,
+C200414,aditya.nair74@gmail.com,Aditya Nair,-9928860593,21-08-2025,SG,Ahmedabad,premium,TRUE,
+C200415,SHAURYA.JOSHI27@OUTLOOK.COM,Shaurya Joshi,-8338683856,16-06-2025,IN,Hyderabad,retail,TRUE,
+C200416,saanvi.bansal18@gmail.com,Saanvi Bansal,-7910814199,13-10-2024,US,Chandigarh,premium,FALSE,
+C200417,rohan.khan59@hotmail.com,Rohan Khan,-7723492970,05-11-2025,IN,Chandigarh,premium,TRUE,
+C200417,shaurya.malhotra83@rediffmail.com,Shaurya Malhotra,-9953286767,31-05-2025,UK,Surat,retail,TRUE,duplicate of acct C100023?
+C200418,nisha.gupta85@yahoo.com,Nisha Gupta,-8362904144,01-03-2024,SG,Lucknow,retail,TRUE,imported from legacy CRM
+C200419,aanya.bose49@gmail.com,Aanya Bose,-9684288392,18-06-2025,IN,Jaipur,retail,TRUE,VIP
+C200420,diya.bose6@outlook.com,Diya Bose,-8334315459,14-06-2025,IN,Lucknow,retail,TRUE,imported from legacy CRM
+C200421,saanvi.iyer60@gmail.com,Saanvi Iyer,-8664708808,04-03-2025,IN,Hyderabad,retail,TRUE,
+C200423,ravi.iyer26@@hotmail.com,Ravi Iyer,-9511286988,01-04-2024,IN,Bengaluru,retail,TRUE,
+C200424,krishna.joshi39@outlook.com,Krishna Joshi,9.17E+11,13-02-2025,IN,Hyderabad,premium,FALSE,
+C200425,tara.mehta55@yahoo.com,Tara Mehta,-7822619787,03-10-2024,UK,Ahmedabad,retail,TRUE,imported from legacy CRM
+C200426,aditya.sharma47@rediffmail.com,Aditya Sharma,-8509752314,03-01-2025,IN,Surat,retail,TRUE,verified
+C200427,aarav.bose93@gmail.com,Aarav Bose,-9182254762,13-11-2025,United States,Chandigarh,retail,TRUE,imported from legacy CRM
+C200428,maya.shah32@outlook.com,Maya Shah,-9417993805,06-12-2024,IN,Chennai,retail,TRUE,imported from legacy CRM
+C200429,,Karan Patel,-9830807160,04-04-2024,india,Chandigarh,retail,TRUE,
+C200430,sai.nair37@gmail.com,Sai Nair,-8126810984,21-06-2025,IN,Bengaluru,premium,TRUE,
+C200431,saanvi.patel69@yahoo.com,Saanvi Patel,-9602267304,31-10-2024,IN,Jaipur,retail,TRUE,
+C200432,diya.gupta4@gmail.com,Diya Gupta,-8296967076,18-04-2024,IN,Jaipur,retail,FALSE,
+C200433,aditya.shah34@hotmail.com,Aditya Shah,-9238868321,30-09-2024,IN,Ahmedabad,retail,TRUE,imported from legacy CRM
+C200434,aadhya.shah87@rediffmail.com,  Aadhya Shah,-7107408175,06-08-2025,IN,Surat,retail,TRUE,verified
+C200435,krishna.joshi67@outlook.com,Krishna Joshi,8501590152,02-01-2024,IN,Indore,retail,TRUE,
+C200436,neha.gupta70@gmail.com,Neha Gupta,-9922814588,17-04-2024,IN,Surat,retail,TRUE,duplicate of acct C100023?
+C200437,rohan.joshi58@yahoo.com,Rohan Joshi,-8601548679,26-08-2024,IN,Mumbai,premium,TRUE,
+C200438,kiara.mehta61@rediffmail.com,Kiara Mehta,-8851638862,07-06-2025,AE,Kolkata,retail,TRUE,verified
+C200439,aadhya.sharma89@hotmail.com,Aadhya Sharma,-7377683694,18-12-2025,India,Delhi,retail,TRUE,
+C200440,aditya.verma79@hotmail.com,Aditya Verma,-8623150923,25-02-2025,UK,Pune,,TRUE,
+C200441,pari.verma79@hotmail.com,Pari Verma,-9284596438,21-04-2024,IN,Jaipur,retail,TRUE,imported from legacy CRM
+C200442,aadhya.reddy64@yahoo.com,Aadhya Reddy,-7424143055,23-10-2025,IN,Chennai,retail,TRUE,
+C200443,aanya.shah19@gmail.com,Aanya Shah,-9655588368,17-12-2025,IN,Hyderabad,enterprise,TRUE,
+C200444,ananya.agarwal57@yahoo.com,Ananya Agarwal,-8549619241,20-12-2024,in ,Hyderabad,retail,TRUE,
+C200444,aditya.kapoor8@gmail.com,Aditya Kapoor,-7862411679,28-06-2024,IN,Chandigarh,,TRUE,
+C200445,aditya.malhotra94@rediffmail.com,Aditya Malhotra,-7744140370,25-01-2025,IN,Chandigarh,retail,TRUE,
+C200446,aditya.chopra90@yahoo.com,Aditya Chopra,-8868604170,11-01-2024,US,Pune,enterprise,TRUE,
+C200447,maya.mehta49@yahoo.com,Maya Mehta,-8374266506,19-03-2024,IN,Delhi,enterprise,TRUE,
+C200448,navya.patel74@rediffmail.com,Navya Patel,-8614590817,07-01-2024,IN,ahmedabad,retail,TRUE,
+C200450,karan.bansal93@rediffmail.com,Karan Bansal,-7272799117,28-12-2025,United States,Chennai,premium,TRUE,verified
+C200451,rahul.gupta71@gmail.com,Rahul Gupta,-8156925584,14-11-2025,IN,Bengaluru,premium,FALSE,VIP
+C200452,ishaan.shah4@outlook.com,Ishaan Shah,-8943314411,07-10-2025,IN,Ahmedabad,retail,TRUE,
+C200453,rohan.kapoor79@rediffmail.com,Rohan Kapoor,-9655173675,16-05-2025,IN,Jaipur,retail,FALSE,duplicate of acct C100023?
+C200454,anika.singh74@hotmail.com,Anika Singh,-8475602735,22-08-2025,SG,Hyderabad,retail,TRUE,verified
+C200455,diya.rao77@rediffmail.com,Diya Rao,-9485938145,07-10-2025,IN,Surat,enterprise,TRUE,duplicate of acct C100023?
+C200456,diya.sharma35@outlook.com,Diya Sharma,-9241234514,30-06-2024,UK,Chandigarh,premium,TRUE,
+C200457,rahul.khan69@hotmail.com,Rahul Khan,-120796,23-02-2024,IN,Kolkata,premium,TRUE,verified
+C200458,aarav.nair40@hotmail.com,Aarav Nair,-9893321826,08-04-2025,US,Delhi,retail,FALSE,duplicate of acct C100023?
+C200459,shaurya.sharma44@gmail.com,Shaurya Sharma,-9732182709,06-10-2025,IN,Delhi,retail,FALSE,
+C200460,rohan.khan46@gmail.com,Rohan Khan,-8895228291,03-06-2025,IN,Chennai,retail,TRUE,duplicate of acct C100023?
+C200461,sai.kapoor19@rediffmail.com,Sai Kapoor,-7501553094,13-02-2025,IN,LUCKNOW,retail,Y,
+C200462,vihaan.patel14@hotmail.com,Vihaan Patel,-8324347886,09-01-2025,IN,Chennai,retail,TRUE,
+C200463,arjun.bansal90@outlook.com,  Arjun Bansal,-7715602558,18-03-2024,IN,Chandigarh,retail,TRUE,
+C200464,kiara.shah26@hotmail.com,Kiara Shah,-8247115183,10-06-2025,IN,pune,retail,TRUE,
+C200465,anika.agarwal28@hotmail.com,Anika Agarwal,-9894426593,06-02-2025,IN,Mumbai,retail,TRUE,
+C200466,arjun.mehta52@outlook.com,Arjun Mehta,-9137199525,21-10-2025,UK,Chennai,premium,TRUE,imported from legacy CRM
+C200467,rohan.shah24@rediffmail.com,Rohan Shah,-7594286819,13-07-2025,IN,Chandigarh,retail,TRUE,duplicate of acct C100023?
+C200468,kiara.rao31@rediffmail.com,Kiara Rao,-7655828180,15-05-2024,US,Surat,enterprize,TRUE,duplicate of acct C100023?
+C200469,vivek.gupta88@rediffmail.com,Vivek Gupta,-9730630707,03-10-2025,IN,Chennai,retail,TRUE,
+C200470,ishaan.verma37@rediffmail.com,Ishaan Verma,-8188777947,29-05-2024,AE,Bengaluru,retail,TRUE,
+C200471,navya.sharma55@hotmail.com,Navya Sharma,-8469289315,12-Nov-24,IN,Chennai,retail,FALSE,VIP
+C200472,kiara.bose41@yahoo.com,Kiara Bose,-9579309567,26-05-2025,SG,Ahmedabad,retail,TRUE,
+C200473,anaya.kumar46@yahoo.com,ANAYA KUMAR,-9231468321,26-06-2024,US,Kolkata,Enterprise,TRUE,
+C200474,ishaan.bose64@gmail.com,Ishaan Bose,-9636225314,15-01-2025,IN,Indore,retail,TRUE,imported from legacy CRM
+C200475,ravi.kapoor85@rediffmail.com,Ravi Kapoor,-8646484237,24-06-2025,IN,Chennai,retail,TRUE,duplicate of acct C100023?
+C200476,krishna.malhotra82@hotmail.com,Krishna Malhotra,-7427318931,30.06.2024,IN,Kolkata,retail,TRUE,
+C200477,diya.kumar89@hotmail.com,Diya Kumar,-8194667328,22-09-2025,IN,Lucknow,Enterprise,TRUE,
+C200478,ishaan.nair34@hotmail.com,Ishaan Nair,91-7317139026,25-08-2024,IN,LUCKNOW,premium,no,
+C200479,saanvi.mehta93@yahoo.com,Saanvi Mehta,-9996788121,02-10-2025,IN,Mumbai,retail,TRUE,
+C200480,anaya.bose38@rediffmail.com,Anaya Bose,-8412260502,27-Jun-24,SG,Delhi,premium,TRUE,
+C200481,ishaan.khan93@outlook.com,Ishaan Khan,-8203281469,19-10-2024,IN,Lucknow,retail,TRUE,
+C200482,vivaan.patel50@hotmail.com,Vivaan Patel,-7226638526,04-02-2024,SG,Pune,retail,TRUE,VIP
+C200483,aditya.sharma96@rediffmail.com,Aditya Sharma,-9853459580,31-05-2024,IN,Jaipur,retail,FALSE,verified
+C200484,rohan.singh70@yahoo.com,Rohan Singh,-8137927228,01-09-2024,IN,Chandigarh,retail,TRUE,imported from legacy CRM
+C200485,aditya.agarwal42@gmail.com,Aditya Agarwal,-7162429616,05-07-2024,IN,Pune,retail,TRUE,imported from legacy CRM
+C200486,aarav.patel82@rediffmail.com,Aarav Patel,-7626745663,16-12-2025,IN,Surat,retail,TRUE,
+C200487,rahul.singh87@yahoo.com,Rahul Singh,91-7548322047,28-03-2024,SG,Chennai,retail,TRUE,
+C200488,rohan.sharma54@rediffmail.com,Rohan Sharma,-7217381471,21-08-2024,IN,Mumbai,retail,TRUE,
+C200489,vihaan.kapoor52@yahoo.com,Vihaan Kapoor,-7643653044,05-04-2024,IN,Ahmedabad,retail,TRUE,
+C200490,ravi.chopra43@outlook.com,Ravi Chopra,-9314351269,11-01-2025,IN,Mumbai,retail,TRUE,duplicate of acct C100023?
+C200491,nisha.shah79@yahoo.com,Nisha Shah,-8321709713,18-09-2024,US,Ahmedabad,premium,FALSE,imported from legacy CRM
+C200492,aadhya.rao33@gmail.com,Aadhya Rao,-8128454452,29-01-2024,IN,Lucknow,retail,TRUE,VIP
+C200493,ravi.reddy87@yahoo.com,,+91 78021 11165,16-05-2024,IN,Mumbai,retail,TRUE,
+C200494,nisha.mehta10@gmail.com,Nisha Mehta,-7127452900,06-07-2024,IN,Mumbai,retail,TRUE,
+C200495,aarav.agarwal27@hotmail.com,Aarav Agarwal,-8160283289,14-09-2025,US,Delhi,retail,TRUE,VIP
+C200496,anaya.iyer13@yahoo.com,Anaya Iyer,-9425872079,29-12-2024,IN,Lucknow,retail,TRUE,
+C200497,vivaan.chopra70@gmail.com,Vivaan Chopra,(+91) 8385287440,06-10-2025,US,Chennai,retail,FALSE,
+C200498,aditya.verma27@outlook.com,Aditya Verma,-9780124134,28-11-2025,IN,Surat,premium,TRUE,
+C200499,aditya.khan91@gmail.com,Aditya Khan,-8727993793,11-09-2024,IN,Pune,premium,TRUE,
+C200500,tara.joshi74@hotmail.com,Tara Joshi,-7223857750,22-03-2025,IN,Ahmedabad,premium,TRUE,VIP
+C200500,vivek.chopra82@gmail.com,Vivek Chopra,-9538957277,05-05-2025,IN,Hyderabad,premium,TRUE,
+C200501,neha.kumar53@hotmail.com,Neha Kumar,-9737232493,29-05-2025,IN,Jaipur,retail,TRUE,
+C200502,aadhya.reddy89@rediffmail.com,Aadhya Reddy,-7914374718,11-07-2025,SG,Pune,premium,TRUE,duplicate of acct C100023?
+C200503,arjun.bose86@outlook.com,Arjun Bose,-8909567044,03-08-2025,IN,Indore,retail,TRUE,
+C200504,vivek.iyer9@rediffmail.com,Vivek Iyer,-7822426549,,IN,Delhi,premium,TRUE,
+C200506,aditya.bose25@yahoo.com,Aditya Bose,-8153406338,20-10-2025,IN,Surat,retail,TRUE,
+C200507,reyansh.joshi94@hotmail.com,Reyansh Joshi,-9193859030,21-02-2025,IN,Surat,retail,TRUE,VIP
+C200508,diya.kumar32@gmail.com,,-7649315848,,IN,Delhi,retail,TRUE,imported from legacy CRM
+C200509,sai.shah7@gmail.com,Sai Shah,-9443741690,05/21/2025,IN,Chennai,retail,TRUE,
+C200510,vivaan.iyer59@outlook.com,Vivaan Iyer,-8186553043,30-12-2025,IN,Surat,premium,TRUE,
+C200511,vivaan.joshi87@yahoo.com,Vivaan Joshi,-8839752851,22-06-2025,IN,Pune,retail,TRUE,VIP
+C200512,maya.shah83@gmail.com,Maya Shah,-8652384800,01-08-2024,IN,Chennai,enterprise,FALSE,VIP
+C200513,rahul.kapoor89@hotmail.com,Rahul Kapoor,-131576,13-12-2025,IN,Kolkata,retail,TRUE,duplicate of acct C100023?
+C200514,kiara.malhotra81@outlook.com,Kiara Malhotra,-7437166028,24-08-2024,IN,Chandigarh,retail,TRUE,
+C200515,rohan.sharma11@yahoo.com,Rohan Sharma,-9202272796,13-01-2025,IN,Surat,retail,TRUE,
+C200516,sai.malhotra19@outlook.com,Sai Malhotra,-7847482933,05-09-2025,AE,Mumbai,Retail,TRUE,
+C200517,pari.chopra36@rediffmail.com,Pari Chopra,-9704958330,13-12-2025,IN,Jaipur,retail,TRUE,
+C200518,ishaan.gupta30@outlook.com,ishaan gupta,-7604222694,03-06-2025,IN,Surat,retail,TRUE,
+C200519,priya.rao99@rediffmail.com,Priya Rao,-7117936538,16-06-2025,India,Delhi,retail,FALSE,
+C200520,maya.bose10@yahoo.com,Maya Bose,-9179132004,04-05-2024,IN,Chennai,enterprise,TRUE,VIP
+C200521,arjun.bansal26.gmail.com,Arjun Bansal,-7115879549,01-06-2024,IN,Kolkata,enterprise,TRUE,
+C200522,ravi.joshi11@rediffmail.com,Ravi Joshi,-8134857624,02-09-2025,US,Indore,retail,TRUE,
+C200523,rahul.shah74@gmail.com,Rahul Shah,-7329569055,28-10-2025,US,Indore,retail,TRUE,VIP
+C200524,aanya.iyer98@gmail.com,Aanya Iyer,-8186552749,04-04-2024,US,Mumbai,retail,TRUE,
+C200525,reyansh.rao81@yahoo.com,Reyansh Rao,-9143822979,26-04-2024,US,Kolkata,retail,TRUE,
+C200526,aadhya.mehta9@yahoo.com,Aadhya Mehta,-7935268028,24-01-2024,IN,Ahmedabad,retail,TRUE,duplicate of acct C100023?
+C200526,aanya.patel69@rediffmail.com,Aanya Patel,-8857938966,16-06-2025,IN,Delhi,premium,TRUE,VIP
+C200527,sai.sharma91@yahoo.com,Sai Sharma,-7290992120,26-12-2024,IN,Bengaluru,retail ,TRUE,verified
+C200528,sai.bose28@hotmail.com,Sai Bose,-9120226568,13-03-2025,IN,Jaipur,retail,FALSE,imported from legacy CRM
+C200529,rohan.nair30@gmail.com,Rohan Nair,-8732744114,05-02-2024,US,Mumbai,retail,TRUE,duplicate of acct C100023?
+C200530,vivaan.joshi52@rediffmail.com,Vivaan Joshi,-9523168282,24-07-2025,US,Ahmedabad,premium,TRUE,
+C200532,ravi.kumar29@yahoo.com,ravi kumar,-9859703705,31-12-2024,IN,Kolkata,premium,FALSE,verified
+C200533,saanvi.kapoor55@hotmail.com,Saanvi Kapoor,-8668586556,08-12-2025,IN,Jaipur,retail,FALSE,
+C200534,priya.rao57@yahoo.com,Priya Rao,-7378309427,31-01-2025,IN,Ahmedabad,enterprise,TRUE,verified
+C200535,diya.mehta96@hotmail.com,Diya Mehta,-9855690354,28-05-2025,UK,Chandigarh,premium,TRUE,VIP
+C200536,ravi.agarwal27@hotmail.com,Ravi Agarwal,-9796711351,30-07-2024,US,Mumbai,retail,TRUE,VIP
+C200537,saanvi.reddy58@outlook.com,Saanvi Reddy,7979273333,30-05-2025,IN,Ahmedabad,retail,FALSE,duplicate of acct C100023?
+C200538,priya.sharma58@hotmail.com,Priya Sharma,-8444658471,04-02-2024,IN,Bengaluru,premium,TRUE,
+C200539,neha.nair64.hotmail.com,Neha Nair,-9794362851,29-08-2025,IN,Chennai,retail,TRUE,VIP
+C200540,navya.singh60@rediffmail.com,Navya Singh,-9859792200,24-09-2025,IN,Bengaluru,retail,TRUE,
+C200541,reyansh.chopra53@rediffmail.com,Reyansh Chopra,-7371100324,29-06-2025,IN,Lucknow,retail,TRUE,verified
+C200542,ananya.bansal74@yahoo.com,Ananya Bansal,-9705585502,27-03-2025,IN,Jaipur,premium,TRUE,
+C200543,ishaan.iyer44@gmail.com,Ishaan Iyer,-8650845669,27-01-2024,US,Kolkata,retail,TRUE,
+C200544,shaurya.mehta10@hotmail.com,Shaurya Mehta,-8953427982,21-07-2025,IN,Surat,premium,TRUE,duplicate of acct C100023?
+C200545,navya.nair45@yahoo.com,Navya Nair,-9608477552,24-07-2025,IN,Kolkata,retail,TRUE,VIP
+C200546,anika.chopra40@outlook.com,Anika Chopra,-8553505936,12-Mar-24,United States,Chandigarh,retail,TRUE,imported from legacy CRM
+C200547,maya.reddy54@gmail.com,Maya Reddy,-7664412361,15-09-2024,IN,Ahmedabad,retail,TRUE,
+C200548,rohan.verma83@rediffmail.com,Rohan Verma,-7500516654,14-03-2025,US,Delhi,retail,TRUE,duplicate of acct C100023?
+C200549,rahul.verma95@gmail.com,Rahul Verma,-9635334732,16-12-2025,IN,Lucknow,retail,TRUE,verified
+C200550,ADITYA.KAPOOR69@OUTLOOK.COM,Aditya Kapoor,-9623286260,23-09-2025,IN,Indore,retail,TRUE,
+C200551,pari.bose39@outlook.com,Pari Bose,-7598185537,15-03-2024,IN,Chandigarh,retail,TRUE,
+C200552,kiara.gupta71@hotmail.com,Kiara Gupta,-8614314587,06-06-2024,IN,Surat,retail,TRUE,VIP
+C200553,ananya.shah17@hotmail.com,Ananya Shah,-8692147508,08-09-2024,IN,,retail,TRUE,duplicate of acct C100023?
+C200554,aditya.verma69@yahoo.com,Aditya Verma,-8336973607,25-03-2025,IN,Surat,retail,TRUE,duplicate of acct C100023?
+C200555,priya.malhotra29@gmail.com,Priya Malhotra,-8365288265,06-01-2025,IN,Kolkata,retail,FALSE,
+C200556,neha.bose7@yahoo.com,Neha Bose,-8630224264,13-08-2025,UK,Bengaluru,premium,TRUE,imported from legacy CRM
+C200557,reyansh.kumar49@outlook.com,Reyansh Kumar,-8522282063,03-08-2024,IN, Lucknow,retail,TRUE,VIP
+C200558,kiara.singh9@hotmail.com,Kiara Singh,-7235668603,28-08-2025,IN,Delhi,enterprise,FALSE,
+C200559,ishaan.malhotra76@hotmail.com,Ishaan Malhotra,-8407498309,09-03-2024,IN,Indore,retail,FALSE,
+C200560,anaya.reddy98@yahoo.com,Anaya Reddy,-8230842847,11-12-2025,IN,Delhi,retail,TRUE,duplicate of acct C100023?
+C200561,aarav.iyer31@rediffmail.com,Aarav Iyer,+91 73756 24105,05-11-2024,AE,Kolkata,retail,FALSE,
+C200562,maya.rao85@outlook.com,Maya Rao,-8303585088,31-08-2024,IN,Kolkata,retail,no,
+C200563,anika.reddy42@outlook.com,Anika Reddy,-8630890367,08-01-2024,in,Lucknow,retail,TRUE,verified
+C200564,navya.singh50.hotmail.com,Navya Singh,-7419469831,18-01-2024,IN,Mumbai,retail,TRUE,
+C200565,pari.nair1@rediffmail.com,Pari Nair,-8390226028,16-12-2024,IN,Chennai,retail,TRUE,
+C200565,maya.patel46@rediffmail.com,Maya Patel,-8266192014,22-08-2024,US,Indore,retail,TRUE,
+C200566,shaurya.bansal85@hotmail.com,Shaurya Bansal,-9843702159,26-11-2025,IN, Lucknow,retail,TRUE,
+C200566,anika.bansal44@hotmail.com,Anika Bansal,-9151689865,06-12-2025,IN,Pune,retail,FALSE,
+C200567,rohan.joshi36@outlook.com,Rohan Joshi,-8889799563,25-10-2025,IN,Lucknow,premium,TRUE,verified
+C200568,aditya.singh3@rediffmail.com,Aditya Singh,-7663398637,02-06-2025,IN,Hyderabad,retail,TRUE,VIP
+C200569,kiara.shah44@rediffmail.com,Kiara Shah,-9408204919,03-11-2024,IN,Chandigarh,retail,FALSE,imported from legacy CRM
+C200572,neha.shah34@gmail.com,Neha Shah,-8473808247,28-01-2024,US,Kolkata,retail,1,imported from legacy CRM
+C200573,ananya.reddy83@rediffmail.com,Ananya Reddy,-8395858781,03-02-2024,IN,Jaipur,retail,FALSE,
+C200574,neha.mehta89@@yahoo.com,Neha Mehta,-8902773945,03-01-2025,IN,Delhi,retail,TRUE,VIP
+C200574,maya.nair4@rediffmail.com,Maya Nair,-7293944695,28-11-2024,IN,Mumbai,enterprise,TRUE,
+C200575,rohan.iyer10@outlook.com,ROHAN IYER,-9683189489,03-08-2025,IN,Delhi,retail,TRUE,
+C200576,rahul.khan53@gmail.com,Rahul Khan,8764662498,16-08-2025,US,Lucknow,premium,TRUE,VIP
+C200577,pari.patel34@gmail.com,Pari Patel,-8849109005,04-07-2024,in ,Indore,premium,TRUE,VIP
+C200578,tara.kumar98@outlook.com,Tara Kumar,-7930212613,16-02-2025,US,Surat,enterprise,TRUE,
+C200580,maya.agarwal8@gmail.com,Maya Agarwal,-7719662084,09/27/2024,IN,Delhi,premium,TRUE,duplicate of acct C100023?
+C200581,vihaan.iyer88@gmail.com,Vihaan Iyer,-8976452594,22-02-2025,UK,Lucknow,premium,TRUE,
+C200582,vivek.rao47@outlook.com,Vivek Rao,-8282568503,13-07-2025,IN,Lucknow,retail,TRUE,
+C200583,vihaan.reddy59@hotmail.com,Vihaan Reddy,(+91) 8943640872,12-10-2024,SG,Indore,premium,TRUE,
+C200583,ananya.bansal79@rediffmail.com,Ananya Bansal,-7358239559,01-12-2025,IN,Pune,premium,TRUE,VIP
+C200584,saanvi.shah28@yahoo.com,Saanvi Shah,9.17E+11,10-09-2025,IN,Lucknow,premium,TRUE,verified
+C200585,anika.gupta84@rediffmail.com  ,Anika Gupta,-8994922040,25-10-2024,IN,Hyderabad,retail,FALSE,
+C200586,reyansh.nair3@hotmail.com,Reyansh Nair,-8156773017,13-02-2024,US,Ahmedabad,retail,TRUE,
+C200587,diya.joshi32@yahoo.com,Diya Joshi,-9474473067,17-01-2024,IN,Chandigarh,retail,TRUE,
+C200589,aanya.reddy93@hotmail.com,Aanya Reddy,-8932660023,29-05-2025,IN,Indore,retail,TRUE,
+C200590,sai.bose12@rediffmail.com,Sai Bose,-9826422108,30-04-2025,IN,Mumbai,premium,FALSE,VIP
+C200591,aanya.nair90@rediffmail.com,Aanya Nair,-9314626040,02-02-2024,IN,Ahmedabad,retail,FALSE,verified
+C200592,aanya.agarwal22@hotmail.com,Aanya Agarwal,-7954872330,14-01-2024,IN,Lucknow,retail,TRUE,imported from legacy CRM
+C200593,tara.agarwal74@outlook.com,Tara Agarwal,-9259541049,30-01-2024,IN,Indore,retail,FALSE,
+C200594,aadhya.mehta23@yahoo.com,Aadhya Mehta,-7963120632,19-06-2025,AE,Chandigarh,retail,TRUE,duplicate of acct C100023?
+C200595,aditya.kumar61@rediffmail.com,Aditya Kumar,-9578357514,18-08-2025,IN,Mumbai,retail,TRUE,
+C200596,shaurya.chopra25@gmail.com,Shaurya Chopra,-7473499124,20-08-2024,IN,Pune,premium,FALSE,
+C200597,vivek.iyer15@hotmail.com,Vivek Iyer,9.18E+11,31-12-2024,IN,Surat,premium,TRUE,verified
+C200598,neha.reddy24@hotmail.com,Neha Reddy,-9870557676,24-02-2024,IN,Hyderabad,premium,FALSE,imported from legacy CRM
+C200599,vivek.reddy8@yahoo.com,Vivek Reddy,-7316491495,27-09-2025,IN,Chennai,premium,TRUE,
+C200600,reyansh.bansal75@yahoo.com,Reyansh Bansal,-8814406054,18-04-2025,IN,Chandigarh,premium,TRUE,
