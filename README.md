@@ -168,7 +168,7 @@ class CustomRule(BaseRule):
 
 &#x20;       # 1. Run a DuckDB query to count how many rows violate your rule
 
-&#x20;       query = f"""
+&#x20;       query = f'''
 
 &#x20;       SELECT COUNT(\*)
 
@@ -176,7 +176,7 @@ class CustomRule(BaseRule):
 
 &#x20;       WHERE my\_column IS BAD;
 
-&#x20;       """
+&#x20;       '''
 
 
 
@@ -200,7 +200,7 @@ class CustomRule(BaseRule):
 
 &#x20;       # 2. Return the SQL CTE that fixes the data
 
-&#x20;       return """
+&#x20;       return '''
 
 &#x20;       custom\_fix\_cte AS (
 
@@ -224,11 +224,9 @@ class CustomRule(BaseRule):
 
 &#x20;       )
 
-&#x20;       """
+&#x20;       '''
 
 ```
-
-
 
 \---
 
