@@ -136,7 +136,7 @@ Your new class must inherit from `BaseRule` and implement its abstract methods.
 
 
 
-```python
+```bash
 
 from .base\_rule import BaseRule
 
@@ -240,7 +240,7 @@ Open `app/profiler/content\_profiler.py`, import your new rule, and add it to th
 
 
 
-```python
+```bash
 
 from rules.custom\_rule import CustomRule
 
